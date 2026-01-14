@@ -1,8 +1,8 @@
-Electric Vehicle Population Data
+**Electric Vehicle Population Da**ta
 
 This repository contains data about electric vehicles (EVs) registered in Washington State, USA.
 
-Dataset Overview
+**Dataset Overview**
 
 The dataset provides detailed information about registered electric vehicles, including:
 
@@ -11,8 +11,8 @@ Vehicle identification (VIN – first 10 characters)
 County, city, state, and postal code
 
 Model year, make, and model
-
-Electric vehicle type:
+**
+Electric vehicle type:**
 
 Battery Electric Vehicle (BEV)
 
@@ -32,13 +32,13 @@ Vehicle geographic location
 
 File Information
 
-File name: Electric_Vehicle_Population_Data.csv
+**File name:** Electric_Vehicle_Population_Data.csv
 
-Format: CSV
+**Format:** CSV
 
-Source: Public electric vehicle registration data
+**Source**: Public electric vehicle registration data
 
-Use Cases
+**Use Cases**
 
 Analyze EV adoption trends
 
@@ -48,8 +48,8 @@ Study electric range and vehicle types
 
 Support clean energy and sustainability analysis
 
-Tools Used
-
+**Tools Used
+**
 Python
 
 Pandas
