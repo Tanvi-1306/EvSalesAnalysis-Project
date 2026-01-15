@@ -1,0 +1,30 @@
+# Tableau Data Analytics Project
+
+## 📊 Project Overview
+This project is a **Tableau dashboard** created to analyze and visualize data for better business insights.  
+It helps in understanding trends, patterns, and performance using interactive visualizations.
+
+## 🛠 Tools Used
+- Tableau
+- Excel / CSV (data source inside TWBX file)
+
+## 📈 Key Insights
+- Easy-to-understand dashboards
+- Interactive filters for analysis
+- Clear visual representation of data
+
+## 📁 File Information
+- `PROJECT(FINAL).twbx` – Tableau packaged workbook containing dashboards and data
+
+## ▶ How to Open the Project
+1. Download the `.twbx` file
+2. Open it using **Tableau Desktop** or **Tableau Public**
+
+## 🚀 Use Case
+This project can be useful for:
+- Data analysis practice
+- Business decision-making
+- Interview portfolio showcase
+
+## 👩‍💻 Author
+Tanvi Thool
